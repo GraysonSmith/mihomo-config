@@ -1,0 +1,8 @@
+# 内容：直连程序
+
+# 内容：直连网站
+DOMAIN-SUFFIX,yunhub.synology.me
+DOMAIN-KEYWORD,matlab
+DOMAIN-KEYWORD,mathworks
+
+PROCESS-NAME,tailscaled.exe

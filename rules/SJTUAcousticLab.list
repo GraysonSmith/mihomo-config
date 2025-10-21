@@ -1,0 +1,4 @@
+# 实验室机房网络，同时有v4和v6
+
+DOMAIN,frp.aclab.synology.me
+IP-CIDR,192.168.50.0/24
